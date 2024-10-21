@@ -16,14 +16,6 @@
 ## About the Project
 
 This repository is the Staking contract for the Fjord ecosystem. Users who gets some ERC20 emitted by Fjord Foundry can stake them to get rewards.
-
-[Documentation](https://help.fjordfoundry.com/fjord-foundry-docs)
-[Forge Documentation](/docs/)
-[Previous audits](/docs/audit/)
-[Website](https://www.fjordfoundry.com/)
-[Twitter](https://x.com/FjordFoundry)
-[GitHub](https://github.com/marigoldlabs)
-
 ## Actors
 
 - __AuthorizedSender__: Address of the owner whose cancellable Sablier streams will be accepted.
